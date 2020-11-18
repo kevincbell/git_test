@@ -1,1 +1,1 @@
-This is Kevin's first Git project!
+My first project for The Odin Project!
